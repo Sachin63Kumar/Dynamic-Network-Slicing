@@ -1,0 +1,14 @@
+cycler==0.12.1
+kiwisolver==1.4.72
+matplotlib==3.9.23
+numpy==2.1.34
+Pillow==11.0.05
+pyparsing==3.2.06
+python-dateutil==2.9.0.post07
+PyYAML==6.0.28
+randomcolor==0.4.4.69
+scikit-learn==1.5.210
+scipy==1.11.311
+simpy==4.0.112
+six==1.16.013
+sklearn==0.0
