@@ -21,11 +21,9 @@ Network slicing is a key feature of 5G technology that allows the creation of mu
 ## Project Structure
 ```bash
 Dynamic-Network-Slicing/
-│
-├── 5G_project/
-│   ├── main.py        # Main script to run the project
-│   ├── Graph.py       # Handles visualization and graphing
-│   └── ...            # Other project modules
+├── main.py        # Main script to run the project
+├── Graph.py       # Handles visualization and graphing
+└── ...            # Other project modules
 │
 ├── example-input.yml  # Example configuration file
 ├── requirements.txt   # Dependencies required for the project
@@ -74,7 +72,8 @@ Dynamic-Network-Slicing/
 3. Run the main simulation script:
 
     ```bash
-    python main.py
+    cd ..
+    python -m Dynamic-Network-Slicing.main example-input.yml
     ```
 
 ---
